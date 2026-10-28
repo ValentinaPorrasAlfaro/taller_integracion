@@ -1,3 +1,5 @@
+# Nombre: Valentina Porras Alfaro
+#Nombre: Jose Andre Mora Paredes
 import os
 import csv
 from colorama import Fore, Style, init
